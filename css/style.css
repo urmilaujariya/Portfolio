@@ -7,7 +7,6 @@
   font-family: 'Poppins', sans-serif;
   scroll-behavior: smooth;
 }
-
 section{
   padding: 100px 200px;
 }
@@ -329,6 +328,9 @@ body{
   .about .content .col-left .img-card img{
     width: 83%;
     margin-left: 35px;
+  }
+  .main-img{
+    display: none;
   }
 }
 .skills .content{
