@@ -19,7 +19,7 @@ section{
   display: flex;
   align-items: center;
   /* background: url(..//images/bg.jpg); */
-  background: url(..//images/bh1\ \(1\).jpg);
+  background: url(..//images/bg1.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -32,7 +32,7 @@ section{
   width: 350px;
   height: 400px;
   border-radius: 50%;
-  background-image: url(..//images/LS20240401094243.png);
+  background-image: url(..//images/pix.png);
   background-repeat: no-repeat;
   background-size: cover;
   border: .1rem solid white;
